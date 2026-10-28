@@ -1,0 +1,3 @@
+# Necessarias para a versao com icone na bandeja (autotile_tray.py)
+pystray
+pillow
